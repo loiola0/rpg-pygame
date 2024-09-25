@@ -9,6 +9,21 @@ This project is a simple turn-based RPG game developed using Python's Pygame lib
 - 🧪 **Potion Usage**: Players can use potions to heal themselves during battles.
 - 🎮 **Animations**: Characters have animations for idle, attack, hurt, and death states.
 
+⚙️ Game Mechanics
+
+Characters: The game includes a knight and multiple bandits. Each character has attributes such as name, max health points (HP), current HP, strength, and the number of potions available.
+Combat System: Players can choose to attack an enemy or use a potion. The damage dealt is randomized within a range based on the character's strength.
+Game Over Conditions: The game ends when either the knight or all bandits are defeated.
+🎮 Controls
+
+Click on a bandit to attack.
+Use the potion button to heal yourself.
+🎨 Assets
+
+The game includes various images for backgrounds, character sprites, and icons for potions and actions. Ensure that all image files are placed in the correct directories as specified in the code.
+
+
+
 ## 🛠️ Requirements
 To run this game, you need:
 - Python 3.x
