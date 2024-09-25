@@ -19,15 +19,12 @@ You can install Pygame using pip:
 ```bash
 pip install pygame
 
-Clone repository:
-```bash
+**Clone repository**:
 git clone https://github.com/yourusername/rpg-game.git
 
-Open game folder:
-```bash
+**Open game folder**:
 cd rpg-pygame
 
-Run game
-```bash
+**Run game**
 python main.py
 
