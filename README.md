@@ -5,10 +5,10 @@ This project is a simple turn-based RPG game developed using Python's Pygame lib
 ## 📸 Screenshots
 Here are some screenshots from the game:
 
-![Knight in Action](screenshots/knight_action.png)
+![Knight in Action](my-rpg-game.png)
 *Knight attacking a bandit*
 
-![Game Over Screen](screenshots/game_over.png)
+![Game Over Screen](morreu1.png)
 *Bandit dead*
 
 
