@@ -2,6 +2,15 @@
 
 ## 📜 Overview
 This project is a simple turn-based RPG game developed using Python's Pygame library. Players control a knight character and engage in combat against bandit enemies. The game features basic mechanics such as attacking, healing with potions, and a health bar display.
+## 📸 Screenshots
+Here are some screenshots from the game:
+
+![Knight in Action](screenshots/knight_action.png)
+*Knight attacking a bandit*
+
+![Game Over Screen](screenshots/game_over.png)
+*Bandit dead*
+
 
 ## 🌟 Features
 - ⚔️ **Turn-Based Combat**: Players and enemies take turns to attack or heal.
